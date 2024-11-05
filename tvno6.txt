@@ -1,8 +1,8 @@
 央视频道,#genre#
 CCTV1,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV2,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+CCTV2,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV3,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV4,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
+CCTV4,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV5,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5+,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV6,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
@@ -10,11 +10,11 @@ CCTV7,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122573
 CCTV8,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV9,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV10,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-CCTV11,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV11,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 CCTV12,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 CCTV13,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV14,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV15,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+CCTV15,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CCTV16,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
@@ -23,7 +23,7 @@ CCTV17,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 黑龙江影视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 黑龙江文体,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
 黑龙江都市,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
-黑龙江新闻法治,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+黑龙江新闻,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
 黑龙江农业,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 黑龙江少儿,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 双鸭山高清,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
@@ -60,7 +60,6 @@ CCTV17,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 东方卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 安徽卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 兵团卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
-大湾区卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
 安多卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 康巴卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 延边卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
@@ -81,7 +80,7 @@ CGTN法语,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221
 上海纪实,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 山东教育,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 金鹰卡通,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
-北京卡酷,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+卡酷少儿,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 优漫卡通,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 哈哈炫动,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 
@@ -105,7 +104,6 @@ NewTV,#genre#
 军事评论,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 明星大片,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 农业致富,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-健身频道,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 中国功夫,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 武搏世界,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 炫舞未来,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
@@ -113,8 +111,8 @@ NewTV,#genre#
 哒啵赛事,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 黑莓电影,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓动画,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-咪咕视频1,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-咪咕视频2,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-咪咕视频3,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-咪咕视频4,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-咪咕视频5,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+睛彩竞技,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+睛彩篮球,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+睛彩广场舞,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+睛彩青少,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+咪咕视频,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8

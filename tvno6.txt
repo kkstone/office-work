@@ -23,8 +23,8 @@ CCTV17,http://39.134.65.240/ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 黑龙江影视,http://39.134.65.240/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 黑龙江文体,http://39.134.65.240/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
 黑龙江都市,http://39.134.65.240/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
-黑龙江新闻,http://39.134.65.240/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
-黑龙江农业,http://39.134.65.240/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+黑龙江新闻法治,http://39.134.65.240/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+黑龙江农业科教,http://39.134.65.240/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 黑龙江少儿,http://39.134.65.240/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 双鸭山综合,http://39.134.65.240/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
 
